@@ -1,6 +1,6 @@
 This project is part of Lab 3: Configuration Management  
 Members implement two sorting algorithms: Quick Sort and Bubble Sort  
-Language: Python or Java
+Language: Python
 
 The program accepts:
 1) A list of integers as input  
