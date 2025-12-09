@@ -1,5 +1,5 @@
 from quick_sort import quick_sort
-from bubble_sort import bubble_sort
+from BubbleSort import bubble_sort
 
 def main():
     print("=== Sorting Program ===")
